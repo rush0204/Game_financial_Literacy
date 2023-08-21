@@ -1,8 +1,6 @@
-# "Credit Power" Game
+## Financial Literacy Game
 
-A game to teach the basic ideas of managing credit for 2018 students.
-
-[Link to live game](https://www.mikewesthad.com/financial-literacy-playlist-games/credit-power/)
+A game to teach the basic ideas of teaching financial literacy
 
 Built with React & GSAP.
 
